@@ -49,7 +49,7 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
     <img src="https://img.shields.io/badge/Intellij Idea-5C9BEA?style=plastic&logo=intellijidea&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/VSCode-5C9BEA?style=plastic&logo=vp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-5C9BEA?style=plastic&logo=v&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/DataGrip-5C9BEA?style=plastic&logo=datagrip&logoColor=white"/>
