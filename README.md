@@ -17,15 +17,11 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-007396?style=plastic&logo=OpenJDK&logoColor=white">
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Matlab-red?style=plastic"/>
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
 </span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-   
 <span>
     <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
@@ -39,14 +35,8 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
 </span>
-
-## Publications 
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```WACV 2024```  Accept (Poster presentation)  
-**I. Yoon et al. "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation"**  
-```ECCV 2024```  Accept  
 
 </div>
 </div>
@@ -55,7 +45,7 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseung519&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseung519&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Front-End" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=sseung519&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sseung519&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
