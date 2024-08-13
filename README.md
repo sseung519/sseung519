@@ -63,7 +63,7 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseung519&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=9DC3F3&text_color=fff&title_color=9DC3F3&count_private=true&exclude_repo=Front-End,sseung519.github.io&hide=html" width=38% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sseung519&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=9DC3F3&text_color=fff&title_color=9DC3F3&count_private=true&exclude_repo=Front-End&hide=html" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=sseung519&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=9DC3F3&text_color=fff&title_color=9DC3F3&count_private=true" width=56% />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sseung519&theme=react-dark&bg_color=20232a&hide_border=true&line=9DC3F3&color=9DC3F3" width=94%/>
 
