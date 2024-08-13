@@ -11,6 +11,9 @@
 
 <div align="left">  
 
+## 🙌Introduction🙌
+안녕하세요! 풀스택과 백엔드 개발자를 꿈꾸는 열정있는 신입 개발자입니다. 현재는 공부중입니다!
+
 ## 📝EDUCATION📝
 (국비지원) 스마트웹&콘텐츠개발)자바기반 풀스택 웹개발자(프론트엔드&백엔드)4 ```(2023/12 ~ 2024/06)``` (하이미디어 구로)   
 AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` (청년취업사관학교(SeSAC) 영등포 )   
@@ -29,19 +32,30 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ jQuery-blue?style=plastic&logo=jQuery&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ jQuery-blue?style=plastic&logo=jQuery&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
 </span>
-
-## Tools
 <span>
-    <img src="https://img.shields.io/badge/intellijidea-000000?style=plastic&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-22CBF9?style=plastic&logo=react&logoColor=white">
 </span>
+
+## ⚒️Tools⚒️
+<span>
+    <img src="https://img.shields.io/badge/Intellij Idea-5C9BEA?style=plastic&logo=intellijidea&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/VSCode-5C9BEA?style=plastic&logo=vp&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/DataGrip-5C9BEA?style=plastic&logo=datagrip&logoColor=white"/>
+</span>
+
+
 </div>
 </div>
 
