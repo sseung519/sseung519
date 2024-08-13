@@ -50,7 +50,7 @@ AWS 클라우드를 활용한 MSA 기반 자바 개발자 ```(2024/07 ~ ing)``` 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sseung519&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/sseung519/sseung519/blob/output/mysnake.svg" width="100%">
+<img src="https://github.com/sseung519/sseung519/blob/output/github-snake-dark.svg" width="100%">
 
 <br><br>
 <!-- Hit counter -->
