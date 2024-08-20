@@ -56,11 +56,15 @@
     <img src="https://img.shields.io/badge/Intellij IDEA-5C9BEA?style=plastic&logo=intellijidea&logoColor=white"/>
 </span>
 <span>
+    <img src="https://img.shields.io/badge/Eclipse-5C9BEA?style=plastic&logo=eclipse&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/VSCode-5C9BEA?style=plastic&logo=v&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/DataGrip-5C9BEA?style=plastic&logo=datagrip&logoColor=white"/>
 </span>
+
 
 
 </div>
